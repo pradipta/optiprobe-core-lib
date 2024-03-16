@@ -26,7 +26,7 @@ To use SHA256HashGenerator in your project, you can clone the repository and inc
 
 ## License
 
-This library is licensed under the MIT License. See the [LICENSE](LICENSE) file for details. TODO: add licence
+This library is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 
